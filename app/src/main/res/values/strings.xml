@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizBuilder</string>
+    <string name="toast_correct">Your answer is CORRECT</string>
+    <string name="toast_incorrect">Unfortunately your answer is NOT CORRECT</string>
+    <string name="total_score">"Total Score: "</string>
+    <string name="score">Score :</string>
+    <string name="text_view_cheat_warning">Are you sure for CHEAT?</string>
+    <string name="button_cheat">cheat</string>
+    <string name="button_back">back</string>
+</resources>
